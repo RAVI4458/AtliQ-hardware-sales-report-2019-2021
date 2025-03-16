@@ -37,20 +37,47 @@ ns_targets_2021: Sales target data for 2021.
 🔹Customer Net Sales Performance - This Customer Net Sales Performance report for Atliq Hardwares showcases yearly sales data from 2019 to 2021, along with the YoY growth percentage (2021 vs. 2020). The report highlights individual customer sales trends, with significant growth percentages across multiple stores, reflecting a strong upward trend in sales.
 
 
+
+![Screenshot 2025-03-16 171450](https://github.com/user-attachments/assets/0a57cacc-0bcb-447c-bb08-7aea670f19d7)
+
+![Screenshot 2025-03-16 171508](https://github.com/user-attachments/assets/cae65844-b666-40ff-b0f1-8f9b9a5c7d22)
+
+
 🔹Market Performance vs Target - This Market Performance vs. Target report for Atliq Hardwares compares actual sales in 2021 against targeted sales, highlighting the variance and percentage shortfall. Several countries, including Canada (-12.63%), Germany (-11.29%), and Australia (-9.54%), fell short of their targets, contributing to an overall 8.40% deficit. This analysis helps identify underperforming markets, enabling targeted strategies to improve sales performance.
 
+![Screenshot 2025-03-16 170949](https://github.com/user-attachments/assets/e5aa9e32-d2e0-4ff1-8d77-ef8e351fd578)
+
 🔹New Product Introductions in 2021 - report for Atliq Hardwares highlights the sales performance of newly introduced products in 2021, totaling $176.2M in revenue. The top-performing products include AQ Qwerty ($22M), AQ Trigger ($20.7M), and AQ Gen Y ($19.5M), indicating strong market demand. The data helps in evaluating product success and guiding future product development and marketing strategies.
+
+![new productaa 2021](https://github.com/user-attachments/assets/f19fdab2-41f0-406a-8552-473064fc9f64)
+
 
 🔹Top 5 revenue generating  Country  - 2021 - report for Atliq Hardwares showcases the highest revenue-generating countries, contributing a total of $367.2M in sales. India leads with $161.3M, followed by the USA ($87.8M), South Korea ($49.0M), Canada ($35.1M), and the United Kingdom ($34.2M). The data highlights India's dominant market share, indicating strong sales performance and potential for further expansion. This insight helps in strategic decision-making for market focus and resource allocation.
 
 
+
+![Screenshot 2025-03-16 154138](https://github.com/user-attachments/assets/37a14b5c-4007-4fdb-b03e-1d6a5dd14acb)
+
 🔹Top 10 Products - 2021 - report for Atliq Hardwares shows a significant 708% growth in total sales, increasing from $6.4M in 2020 to $52.0M in 2021. The 3600 Desktop Processor led with $19.4M, showing a 541.3% increase. Other notable products, such as AQ Mx NB (5623.5% growth) and AQ Smash 2 (2489.5% growth), exhibited exponential increases. This data highlights strong demand for these products, guiding future production and marketing strategies.
+
+![Screenshot 2025-03-16 154413](https://github.com/user-attachments/assets/2eed5078-bfa7-448a-a90a-df485dd923dd)
+
 
 🔹Top 5 and Bottom 5 Products Based on Sales Quantity - 
   report for Atliq Hardwares shows the highest-selling items by quantity, with a total of 19.0M units sold. The leading product is AQ Master wired x1 Ms (4.2M units), followed by AQ Master wireless x1 Ms (4.1M units) and AQ Gamers Ms (4.0M units). Conversely, the Bottom 5 Products had much lower sales, with a combined total of 174,887K units. Among them, AQ GEN Z (63,059K units) and AQ Gamer 1 (51,721K units) had relatively better performance compared to the others.
+  
+  
+![Screenshot 2025-03-16 154756](https://github.com/user-attachments/assets/c6f2237b-753b-4847-a3e7-6cbd6f34521e)
 
 🔹 Division-Level Sales Analysis -
  Report for AtliQ Hardwares compares sales performance across three divisions—N & S, P & A, and PC—for the years 2020 and 2021. The total revenue grew from $196.7M in 2020 to $598.9M in 2021, marking a 204.5% increase. Among the divisions, PC saw the highest growth rate of 313.7%, followed by P & A at 221.5%, while N & S had the lowest growth at 84.4%. This indicates that while all divisions experienced significant sales growth, the PC and P & A divisions expanded at a much faster pace.
+
+
+ 
+
+![Screenshot 2025-03-16 155054](https://github.com/user-attachments/assets/7af5fd86-d254-4656-8f33-65d464a35f55)
+
+
 
 
 ### 🛠 Highlightes of financial Analytics 
@@ -58,13 +85,35 @@ ns_targets_2021: Sales target data for 2021.
  
 🔹 Profit & Loss (P&L) report -This Profit & Loss (P&L) report presents financial performance across three fiscal years (2019, 2020, and 2021). Net sales have shown significant growth, increasing from $87.48M in 2019 to $598.88M in 2021, a 204% jump from 2020 to 2021. Similarly, Cost of Goods Sold (COGS) has also increased by 209%, while the Gross Margin has grown by 198%. However, the Gross Margin Percentage (GM%) has slightly declined from 37.28% in 2020 to 36.43% in 2021, indicating that costs have increased at a slightly higher rate than revenue.
 
+
+![Screenshot 2025-03-16 155525](https://github.com/user-attachments/assets/a9121ac0-d47e-48dd-bbf4-5fdca3d99a2d)
+
+
 🔹 Profit & Loss (P&L) report monthly - This Profit & Loss (P&L) report provides a monthly breakdown of financial performance for the fiscal years 2019, 2020, and 2021. Net sales have shown significant growth, increasing from $87.48M in 2019 to $598.88M in 2021, reflecting a strong upward trend. Similarly, COGS and Gross Margin have increased, but the Gross Margin Percentage (GM%) has declined slightly, indicating rising costs. The Net Sales Comparison at the bottom highlights the percentage growth between 2020 vs. 2019 and 2021 vs. 2020, with 2021 showing a remarkable 204.5% increase over 2020.
 
+
+![Screenshot 2025-03-16 155832](https://github.com/user-attachments/assets/3a287b66-b62b-4863-9002-0d0136f5c97f)
+
+
 🔹Market-Specific Profit and Loss (P&L) - 
-The P&L for Markets report presents the financial performance of various countries for the fiscal year 2021, including Net Sales, Cost of Goods Sold (COGS), Gross Margin, and Gross Margin Percentage (GM %). India recorded the highest net sales at $161.3M, with a 32.0% gross margin percentage, while the USA followed with $87.8M in net sales and a 37.0% GM %. Countries like New Zealand (48.2%) and Japan (46.5%) had higher gross margin percentages, indicating stronger profitability relative to their costs. The report helps analyze which markets contribute the most to revenue and profitability, guiding business strategy and resource allocation.
+The P&L for Markets report presents the financial performance of various countries for the fiscal year 2021, including Net Sales, Cost of Goods Sold (COGS), Gross Margin, and Gross Margin Percentage (GM %). India recorded the highest net sales at $161.3M, with a 32.0% gross margin percentage, while the USA followed with $87.8M in net sales and a 37.0% GM %. Countries like New Zealand (48.2%) and Japan (46.5%) had higher gross margin percentages, indicating stronger profitability relative to their costs. The report helps analyze which markets contribute the most to revenue and profitability, guiding business strategy and resource allocatio
+
+![Screenshot 2025-03-16 160441](https://github.com/user-attachments/assets/ac3e14f6-8730-4134-8e98-4a563336b67e)
+
+
+
 
 🔹 Quarterly GM% Breakdown by Region  - 
 The report presents the Gross Margin Percentage (GM%) across different sub-zones (ANZ, India, NA, NE, ROA, and SE) for the fiscal years 2019, 2020, and 2021. The data is segmented quarterly, showing trends in profitability for each region. Over the three years, GM% fluctuates across regions, with some like ROA and SE maintaining relatively high margins, while India consistently has a lower GM%. The color-coded formatting highlights variations in GM%, making it easy to identify trends and compare performance across years.
+
+
+
+
+![Screenshot 2025-03-16 161041](https://github.com/user-attachments/assets/3d2cd1d4-ebe5-46e4-b2cd-7e27d3be6425)
+
+
+
+
 
 
 ### Conclusion 
