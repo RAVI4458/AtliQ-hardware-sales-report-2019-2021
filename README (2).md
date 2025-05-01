@@ -14,8 +14,8 @@ and using M language for all the steps performed using the UI controls  and also
 
 ✅ Conditional Formatting – Highlighted key trends, such as highest/lowest sales values.
 
-✅ Data Modeling in Power BI
-For this project, I structured the data using a star schema model in Power BI, ensuring efficient performance, seamless analysis, and scalable reporting.
+✅ Data Modeling - 
+ Connected all dimension tables with fact tables using a star schema and created a dimension date table to capture the fiscal year.
 
 📌 Data Model Overview:
 Fact Table (fact_sales_monthly): Contains transactional data, including sales amount, quantity, freight cost, manufacturing cost, total COGS, and fiscal year (FY).
