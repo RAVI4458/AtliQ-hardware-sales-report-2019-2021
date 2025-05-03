@@ -36,7 +36,6 @@ ns_targets_2021: Sales target data for 2021.
 
 🔹Customer Net Sales Performance - This Customer Net Sales Performance report for Atliq Hardwares showcases yearly sales data from 2019 to 2021, along with the YoY growth percentage (2021 vs. 2020). The report highlights individual customer sales trends, with significant growth percentages across multiple stores, reflecting a strong upward trend in sales.
 
-![image](https://github.com/user-attachments/assets/a321c322-445e-42cf-8d71-101f97fac3ff)
 
 
 ![Screenshot 2025-03-16 171450](https://github.com/user-attachments/assets/0a57cacc-0bcb-447c-bb08-7aea670f19d7)
